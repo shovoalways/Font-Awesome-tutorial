@@ -1,0 +1,43 @@
+body, html{height: 100%;}
+.social{position: relative; float: left; top: 50%; left: 50%; transform: translate(-50%, -50%)}
+.social ul{margin: 0; padding: 0; list-style: none; text-align: center}
+
+.social ul li{display: inline-block; margin: 0 5px}
+.social ul li a{width: 40px; height: 30px; background: #262626; color: #fff; text-align: center; display: block;padding-top: 10px}
+.social ul li a:hover{background: #ff0000}
+
+
+
+/*Custom Socail Color*/
+.social ul.custom{margin-top: 20px}
+
+.social ul.custom li a{background: none; text-decoration: none}
+.social ul.custom li a i{width: 40px; height: 30px; background: #262626; color: #fff; text-align: center; display: block;padding-top: 10px}
+.social ul.custom li a i.fa-facebook-f{background: #4C6EA3}
+.social ul.custom li a:hover i{opacity: 0.9}
+.social ul.custom li a i.fa-twitter{background: #1C9CEB}
+.social ul.custom li a i.fa-youtube{background: #F63030}
+.social ul.custom li a i.fa-behance{background: #0052E0}
+.social ul.custom li a i.fa-linkedin-in{background: #1582AB}
+
+
+
+.social ul.custom_hover{margin-top: 30px}
+.social ul.custom_hover a{background: none;}
+.social ul.custom_hover a i{background: #262626; width: 40px; height: 30px; padding-top: 10px;}
+.social ul.custom_hover a:hover{background: none}
+.social ul.custom_hover a:hover i.fa-facebook-f{background: #4C6EA3}
+.social ul.custom_hover a:hover i.fa-twitter{background: #1C9CEB}
+.social ul.custom_hover a:hover i.fa-youtube{background: #F63030}
+.social ul.custom_hover a:hover i.fa-behance{background: #0052E0}
+.social ul.custom_hover a:hover i.fa-linkedin-in{background: #1582AB}
+
+
+
+
+
+
+
+
+
+

@@ -6,3 +6,6 @@ Font awesome icons are retina ready that means it will look perfect in all types
 
 Why social media is important?
 If you add social media on your website, it can build more trust in your product or your service. Therefore, people like to add social media to their website.
+
+Now if you interested to add social media icon using fontawsome here is the tutorial
+https://www.youtube.com/watch?v=kYzH9s_RvvQ
